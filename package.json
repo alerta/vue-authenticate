@@ -1,5 +1,5 @@
 {
-  "name": "vue-authenticate",
+  "name": "@alerta/vue-authenticate",
   "version": "1.5.0",
   "description": "Authentication library for Vue.js",
   "main": "dist/vue-authenticate.min.js",

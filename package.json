@@ -82,5 +82,6 @@
     "axios": "^0.18.0",
     "vue": "^2.6.10",
     "vue-axios": "^2.1.4"
-  }
+  },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }

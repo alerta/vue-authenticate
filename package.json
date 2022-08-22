@@ -60,7 +60,7 @@
     "rollup-plugin-node-resolve": "^3.0.0",
     "rollup-plugin-uglify": "^1.0.1",
     "rollup-stream": "^1.19.0",
-    "uglify-js": "^2.8.22",
+    "uglify-js": "^3.17.0",
     "unix-timestamp": "^0.2.0",
     "vinyl-source-stream": "^1.1.0",
     "vue-router": "^3.0.5",
